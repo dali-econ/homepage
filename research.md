@@ -5,7 +5,7 @@ slug: /Research
 
 items: 
   - title: Working Paper
-    description: <strong>Firm Intangible Capital, Loan Contracts, and Monetary Policy</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5129815" target="_blank">SSRN link</a>] 
+    description: <strong>Firm Intangible Capital, Loan Contracts, and Monetary Policy</strong> [<a href="./assets/main_slides_final.pdf" target="_blank">PDF</a>]
     publication: Revise & Resubmit at Journal of Corporate Finance
     authors: with <a href = "https://renbinzhang.weebly.com/" target="_blank">Renbin Zhang</a>
     numbering: 1  

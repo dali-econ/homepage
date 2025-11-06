@@ -18,7 +18,7 @@ items:
     abstract: This paper examines the relationship between monetary policy, firm investmentdecisions, and rational inattention. By analyzing firms’ 10-K and 10-Q reports, wemeasure attention allocation and demonstrate that firms paying greater attention toinflation experience a more significant impact of monetary policy on their investmentdecisions. Additionally, we demonstrate that industries with higher average attentionto inflation adjust their prices more significantly in response to economic changes. Wedevelop a two-period model showing that firms with greater attention to macroeco-nomic factors adjust prices more quickly to monetary policy shocks, ultimately reduc-ing the magnitude of their investment adjustments. Our findings highlight the criticalroles of information frictions and attention heterogeneity in understanding monetary policy transmission.
 
 publica:
- - title:  Publication
+  - title:  Publication
     description: 孙宁华,<strong>付大利</strong>. 法定数字货币畅通国内大循环的理论逻辑与作用机制, 《学习与实践》, 2023.
 
   - title:  Publication

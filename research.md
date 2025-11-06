@@ -3,14 +3,7 @@ layout: work
 title: Research
 slug: /Research
 
-items:
-  - title: Working Paper 
-    description: <strong>Banking Innovations in China&#58; Evidence and Welfare Implications</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4617083" target="_blank">SSRN link</a>]  
-    authors: with <a href = "https://sites.google.com/site/wangyicheng1192/" target="_blank">Yicheng Wang</a> and <a href = "https://xuzhiwei09.wixsite.com/econ/research" target="_blank">Zhiwei Xu</a> 
-    numbering: 1
-    coverage: Selected Presentations&#58; Peking University PHBS Macro-Finance Reading Group; 7th Peking-NUS Annual conference; Sargent Institute of Quantitative Economics and Finance Workshop; 6th China and Development Annual Conference (Shanghai Jiao Tong U) 2023; CICM 2023; CFRC 2023
-    abstract: Understanding the impacts of new technology and innovations on the banking sector is important and of growing interest. However, there is limited research on the detailed channels of the impacts, and consequently, the evaluations for the aggregate welfare implications. We contribute both empirically and quantitatively. We use bank panel dataset and construct a new measure of overall banking innovations to document that banking innovations can reduce marginal net costs, which improve efficiency and may unintended increase bank risk-taking. We show the finding is quite robust under a battery of checks. In a new structural, quantitative model, banks with heterogeneous capital choose investment in innovation and also risky lending, face regulations on the capital requirement and have limited liability. When aggregate new technology improves, it can reduce financial intermediation costs and social deadweight loss; however, it will also change the bank's risk consideration and increases moral hazard when the cost is largely reduced. We also find several other new implications for R\&D investment credit policy and Capital Requirement policy.
-    
+items: 
   - title: Working Paper
     description: <strong>Firm Intangible Capital, Loan Contracts, and Monetary Policy</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5129815" target="_blank">SSRN link</a>] 
     publication: Revise & Resubmit at Journal of Corporate Finance
@@ -24,6 +17,7 @@ items:
     numbering: 3  
     abstract: This paper examines the relationship between monetary policy, firm investmentdecisions, and rational inattention. By analyzing firms’ 10-K and 10-Q reports, wemeasure attention allocation and demonstrate that firms paying greater attention toinflation experience a more significant impact of monetary policy on their investmentdecisions. Additionally, we demonstrate that industries with higher average attentionto inflation adjust their prices more significantly in response to economic changes. Wedevelop a two-period model showing that firms with greater attention to macroeco-nomic factors adjust prices more quickly to monetary policy shocks, ultimately reduc-ing the magnitude of their investment adjustments. Our findings highlight the criticalroles of information frictions and attention heterogeneity in understanding monetary policy transmission.
 
+publica:
 
  - title:  Publication
     description: 孙宁华,<strong>付大利</strong>. 法定数字货币畅通国内大循环的理论逻辑与作用机制, 《学习与实践》, 2023.

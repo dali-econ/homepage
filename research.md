@@ -5,17 +5,18 @@ slug: /Research
 
 items: 
   - title: Working Paper
-    description: <strong>Firm Intangible Capital, Loan Contracts, and Monetary Policy</strong> [<a href="./assets/main_slides_final.pdf" target="_blank">PDF</a>]
-    publication: Revise & Resubmit at Journal of Corporate Finance
-    authors: with <a href = "https://renbinzhang.weebly.com/" target="_blank">Renbin Zhang</a>
+    description: <strong>地方政府债务、非税收入激励与增长陷阱——运行机制与宏观效应</strong> [<a href="./assets/main_slides_final.pdf" target="_blank">PDF</a>]
+    publication: 提交
+    authors: 第一作者与孙宁华
     numbering: 1  
-    abstract: This paper examines the role of debt contracts and intangible capital in the transmission of monetary policy to firm-level investment. Based on an analysis of US non-financial firm-level data, we find that, in response to a contractionary monetary shock, cash flow-based borrowers with a relatively higher proportion of intangible assets experience a sharper contraction in investment than others. However, for asset-based borrowers, firms' investment responses to monetary policy shocks do not vary with the proportion of intangible assets. A heterogeneous firm model, which features the coexistence of multiple debt contracts and investment portfolio choices, can explain our empirical findings.
+    abstract: 近年来随着地方政府的财政压力不断增长，非税收入的大幅增长引起了社会的广泛关注。本文首先揭示了两个典型事实，(1) 中国政府支出存在刚性特征，(2) 非税收入与税收收入存在不完全替代性。进一步地，本文通过构建一个包含政企关联和罚没收入的动态随机一般均衡模型，探究了财政压力下非税收入征管对经济增长和财政政策有效性的影响，并给出了应对方案。研究发现，当地方政府面临的财政压力上升时，会强化非税收收入的激励，加强对非税收入的征管，进而加重企业非税负担，破坏地区营商环境，影响长期经济增长，产生“捞偏门效
+应”。在上述设定下，如果不加干预，这一负向效应会自我强化，使经济会陷入到“债务压力——增长陷阱”。同时，“偏门效应”会弱化财政支出扩张的政策效果，甚至会导致轻微通货紧缩。对策分析表面，强化监管和允许地方政府规范发行债券都会弱化财政压力下地方政府的非税收入激励，避免落入“债务压力——增长陷阱”，社会整体福利水平分别提高2.28% 和3.31%。本文补充了财政政策之供给侧效应的相关研究，为公共债务的宏观效应研究提供了新的视角，同时为涉企违规收费专项整治行动提供了经济学的理论支撑。
 
   - title: Working Paper
-    description: <strong>Monetary Policy, Investment and Rational Inattention</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5005981" target="_blank">SSRN link</a>] 
-    authors: with <a href = "https://renbinzhang.weebly.com/" target="_blank">Renbin Zhang</a> and <a href = "https://zijianwang.weebly.com/research.html" target="_blank">Zijian Wang</a> 
+    description: <strong>公共债务与真实利率的长期演变：微观基础与宏观表征</strong>  
+    authors: 第一作者与孙宁华
     numbering: 2  
-    abstract: This paper examines the relationship between monetary policy, firm investmentdecisions, and rational inattention. By analyzing firms’ 10-K and 10-Q reports, wemeasure attention allocation and demonstrate that firms paying greater attention toinflation experience a more significant impact of monetary policy on their investmentdecisions. Additionally, we demonstrate that industries with higher average attentionto inflation adjust their prices more significantly in response to economic changes. Wedevelop a two-period model showing that firms with greater attention to macroeco-nomic factors adjust prices more quickly to monetary policy shocks, ultimately reduc-ing the magnitude of their investment adjustments. Our findings highlight the criticalroles of information frictions and attention heterogeneity in understanding monetary policy transmission.
+    abstract: 近四十年以来，全世界范围内发达经济体的公共债务一致呈现扩张趋势，真实利率与自然利率一致呈下降趋势，2008 年以来，中国也呈现债务上升和利率下降并存的现象。传统理论认为，公共债务扩张会推动真实利率上升，并不能很好地解释这一经济现实。有鉴于此，本部分构建一个动态一般均衡模型，旨在分析政府部门的财政政策（包括政府支出、税收和政府债务）如何影响长期真实利率及其传导机制。研究表明，在家庭部门引入非位似偏好能够很好地刻画公共债务与真实利率的长短期关系，即公共债务扩张推动真实利率短期上升，长期下降。非位似偏好刻画了边际储蓄倾向递增，收入不平等增加时导致债务扩张时期长期真实利率下降的重要原因。
 
 publica:
   - title:  Publication

@@ -20,7 +20,6 @@ items:
 publica:
   - title:  Publication
     description: <a href = "https://nubs.nju.edu.cn/snh/list.htm" target="_blank">孙宁华</a>,<strong>付大利</strong>. <a href = "https://kns.cnki.net/kcms2/article/abstract?v=29aDaWKg40HK_u6jWzWxivzSuUqsadFKyvEe6HiJabgT2tslqBrWBYZLyduMgybiKKzpM27IdNOo87N-LIaRuuFKPR7kQnB-cybBEK4JvTvcTqx9Fnv1r_B5O7ZjpzOYHFhJDxzgJ90=&uniplatform=NZKPT" target="_blank">法定数字货币畅通国内大循环的理论逻辑与作用机制</a>, 《学习与实践》, 2023.
-    coverage: Selected Presentations&#58; CAPE 2021
 
   - title:  Publication
     description: <a href = "https://nubs.nju.edu.cn/snh/list.htm" target="_blank">孙宁华</a>,<strong>付大利</strong>. <a href = "https://kns.cnki.net/kcms2/article/abstract?v=29aDaWKg40FG6PPIfcn6XlkoIgMHMXU1nc5yPPqKgQeybdb68xhMtQIE3gxtgsHp0UKgemWB0V4PM16rBrd1GT0y33OQ5LGf_nW5cZYKxenCGtcpCvlxNXawFeinpoS7XbWalwI0HNphQjBVbi_9POtf-2LvMicG6Ph8dGgFQJBHPP_bUHE4Xg==&uniplatform=NZKPT&language=CHS" target="_blank">公共债务扩张、流动性创造与资本成本变动</a>, 《财经科学》, 2025.

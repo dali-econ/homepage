@@ -19,7 +19,7 @@ items:
 
 publica:
   - title:  Publication
-    description: <a href = "https://nubs.nju.edu.cn/snh/list.htm" target="_blank">孙宁华</a>,<strong>付大利</strong>. 法定数字货币畅通国内大循环的理论逻辑与作用机制, 《学习与实践》, 2023.
+    description: <a href = "https://nubs.nju.edu.cn/snh/list.htm" target="_blank">孙宁华</a>,<strong>付大利</strong>. <a href = "https://kns.cnki.net/kcms2/article/abstract?v=29aDaWKg40HK_u6jWzWxivzSuUqsadFKyvEe6HiJabgT2tslqBrWBYZLyduMgybiKKzpM27IdNOo87N-LIaRuuFKPR7kQnB-cybBEK4JvTvcTqx9Fnv1r_B5O7ZjpzOYHFhJDxzgJ90=&uniplatform=NZKPT" target="_blank">法定数字货币畅通国内大循环的理论逻辑与作用机制</a>, 《学习与实践》, 2023.
     coverage: Selected Presentations&#58; CAPE 2021
 
   - title:  Publication

@@ -6,7 +6,7 @@ slug: /Research
 items: 
   - title: Working Paper
     description: <strong>地方政府债务、非税收入激励与增长陷阱——运行机制与宏观效应</strong> [<a href="./assets/main_slides_final.pdf" target="_blank">PDF</a>]
-    publication: 提交
+    publication: 提交会议
     authors: <strong>付大利</strong> &孙宁华
     numbering: 1  
     abstract: 近年来随着地方政府的财政压力不断增长，非税收入的大幅增长引起了社会的广泛关注。本文首先揭示了两个典型事实，(1) 中国政府支出存在刚性特征，(2) 非税收入与税收收入存在不完全替代性。进一步地，本文通过构建一个包含政企关联和罚没收入的动态随机一般均衡模型，探究了财政压力下非税收入征管对经济增长和财政政策有效性的影响，并给出了应对方案。研究发现，当地方政府面临的财政压力上升时，会强化非税收收入的激励，加强对非税收入的征管，进而加重企业非税负担，破坏地区营商环境，影响长期经济增长，产生“捞偏门效应”。在上述设定下，如果不加干预，这一负向效应会自我强化，使经济会陷入到“债务压力——增长陷阱”。同时，“偏门效应”会弱化财政支出扩张的政策效果，甚至会导致轻微通货紧缩。对策分析表面，强化监管和允许地方政府规范发行债券都会弱化财政压力下地方政府的非税收入激励，避免落入“债务压力——增长陷阱”，社会整体福利水平分别提高2.28% 和3.31%。本文补充了财政政策之供给侧效应的相关研究，为公共债务的宏观效应研究提供了新的视角，同时为涉企违规收费专项整治行动提供了经济学的理论支撑。
@@ -20,9 +20,12 @@ items:
 publica:
   - title:  Publication
     description: <a href = "https://nubs.nju.edu.cn/snh/list.htm" target="_blank">孙宁华</a>,<strong>付大利</strong>. 法定数字货币畅通国内大循环的理论逻辑与作用机制, 《学习与实践》, 2023.
+    publication: 新华文章论点摘编
+    coverage: Selected Presentations&#58; CAPE 2021
 
   - title:  Publication
     description: <a href = "https://nubs.nju.edu.cn/snh/list.htm" target="_blank">孙宁华</a>,<strong>付大利</strong>. 公共债务扩张与资本成本变动：流动性注入还是挤占投资？, 《财经科学》, 2025.
+    publication: 封面文章
   
   - title:  Publication
     description: <strong>付大利</strong>,耿智,<a href = "https://nubs.nju.edu.cn/snh/list.htm" target="_blank">孙宁华</a>. 政府债务置换的宏观经济效应及其传导机制——基于安全资产短缺的视角分析, 《贵州社会科学》, 2025.

@@ -23,7 +23,7 @@ publica:
     coverage: Selected Presentations&#58; CAPE 2021
 
   - title:  Publication
-    description: <a href = "https://nubs.nju.edu.cn/snh/list.htm" target="_blank">孙宁华</a>,<strong>付大利</strong>. 公共债务扩张与资本成本变动：流动性注入还是挤占投资？, 《财经科学》, 2025.
+    description: <a href = "https://nubs.nju.edu.cn/snh/list.htm" target="_blank">孙宁华</a>,<strong>付大利</strong>. <a href = "https://kns.cnki.net/kcms2/article/abstract?v=29aDaWKg40FG6PPIfcn6XlkoIgMHMXU1nc5yPPqKgQeybdb68xhMtQIE3gxtgsHp0UKgemWB0V4PM16rBrd1GT0y33OQ5LGf_nW5cZYKxenCGtcpCvlxNXawFeinpoS7XbWalwI0HNphQjBVbi_9POtf-2LvMicG6Ph8dGgFQJBHPP_bUHE4Xg==&uniplatform=NZKPT&language=CHS" target="_blank">公共债务扩张、流动性创造与资本成本变动</a>, 《财经科学》, 2025.
   
   - title:  Publication
     description: <strong>付大利</strong>,耿智,<a href = "https://nubs.nju.edu.cn/snh/list.htm" target="_blank">孙宁华</a>. 政府债务置换的宏观经济效应及其传导机制——基于安全资产短缺的视角分析, 《贵州社会科学》, 2025.

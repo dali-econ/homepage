@@ -20,12 +20,10 @@ items:
 publica:
   - title:  Publication
     description: <a href = "https://nubs.nju.edu.cn/snh/list.htm" target="_blank">孙宁华</a>,<strong>付大利</strong>. 法定数字货币畅通国内大循环的理论逻辑与作用机制, 《学习与实践》, 2023.
-    publication: 新华文章论点摘编
     coverage: Selected Presentations&#58; CAPE 2021
 
   - title:  Publication
     description: <a href = "https://nubs.nju.edu.cn/snh/list.htm" target="_blank">孙宁华</a>,<strong>付大利</strong>. 公共债务扩张与资本成本变动：流动性注入还是挤占投资？, 《财经科学》, 2025.
-    publication: 封面文章
   
   - title:  Publication
     description: <strong>付大利</strong>,耿智,<a href = "https://nubs.nju.edu.cn/snh/list.htm" target="_blank">孙宁华</a>. 政府债务置换的宏观经济效应及其传导机制——基于安全资产短缺的视角分析, 《贵州社会科学》, 2025.
